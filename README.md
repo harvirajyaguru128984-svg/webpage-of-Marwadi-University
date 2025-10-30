@@ -36,3 +36,4 @@ Sections included:
 ---
 
 ## 📂 File Structure
+project-folder/ │ ├── index.html ├── visionboard.html ├── style.css ├── assets/ │ └── screenshot.png └── README.md
